@@ -1,14 +1,14 @@
 {
-  "name": "js-export-excel",
+  "name": "ben-js-export-excel",
   "description": "json export excel",
-  "version": "1.1.4",
+  "version": "1.0.0",
   "author": "kin <cuikangjie_90h@126.com>",
   "private": false,
   "license": "Apache-2.0",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:cuikangjie/js-export-excel.git"
+    "url": "git+ssh://git@github.com/cuikangjie/js-export-excel.git"
   },
   "keywords": [
     "json export",
@@ -38,5 +38,13 @@
     "jszip": "^3.5.0",
     "webpack": "^2.2.0",
     "webpack-dev-server": "^2.10.1"
+  },
+  "bugs": {
+    "url": "https://github.com/cuikangjie/js-export-excel/issues"
+  },
+  "homepage": "https://github.com/cuikangjie/js-export-excel#readme",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
   }
 }
