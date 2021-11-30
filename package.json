@@ -1,11 +1,11 @@
 {
   "name": "ben-js-export-excel",
   "description": "json export excel",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "kin <cuikangjie_90h@126.com>",
   "private": false,
   "license": "Apache-2.0",
-  "main": "./lib/index.js",
+  "main": "./main/index.js",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/cuikangjie/js-export-excel.git"
