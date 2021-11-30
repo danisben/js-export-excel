@@ -1,7 +1,7 @@
 {
   "name": "ben-js-export-excel",
   "description": "json export excel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "kin <cuikangjie_90h@126.com>",
   "private": false,
   "license": "Apache-2.0",
